@@ -1,0 +1,5 @@
+/Users/alexandrahamlin/Projects/Deliverable1/Deliverable1/bin/Debug/Deliverable1.exe
+/Users/alexandrahamlin/Projects/Deliverable1/Deliverable1/bin/Debug/Deliverable1.pdb
+/Users/alexandrahamlin/Projects/Deliverable1/Deliverable1/obj/x86/Debug/Deliverable1.csproj.CoreCompileInputs.cache
+/Users/alexandrahamlin/Projects/Deliverable1/Deliverable1/obj/x86/Debug/Deliverable1.exe
+/Users/alexandrahamlin/Projects/Deliverable1/Deliverable1/obj/x86/Debug/Deliverable1.pdb
